@@ -1,5 +1,9 @@
-# Histogram-of-an-images
-## Aim
+# HISTOGRAM IMAGE PROCESSING
+
+## NAME: Rhudhra phriyamvadha K S
+## REG NO: 212224040275
+
+## Aim:
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
 ## Software Required:
